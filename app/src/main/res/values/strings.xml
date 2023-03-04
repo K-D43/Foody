@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Foody</string>
+    <string name="fromDkayHub">from DkayHub</string>
+    <string name="get_started">Get Started</string>
+    <string name="all_recipes">All Recipes</string>
+    <string name="Category">Category Name</string>
+    <string name="dish_name">Dish Name</string>
+</resources>
